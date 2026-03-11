@@ -1,4 +1,6 @@
-# Group 7 — Computer Systems ⭐ (go deep here)
+# Early draft of courses i wanna take
+
+## Group 7 — Computer Systems ⭐ (go deep here)
 
 * Databases (02360363) — compulsory
 * Operating Systems Engineering (02360376)
@@ -9,7 +11,7 @@
 * Advanced Storage Systems and Technologies (02360422)
 
 
-# Group 6 — Distributed Systems & Networks ⭐ (go deep here)
+## Group 6 — Distributed Systems & Networks ⭐ (go deep here)
 Must take either Networks or Concurrent+Distributed
 
 * Introduction to Computer Networks (02360334)
@@ -21,14 +23,14 @@ Must take either Networks or Concurrent+Distributed
 * Network Security (02360350)
 
 
-# Group 3 — Logic & Applications (fulfill requirement, minimum 3)
+## Group 3 — Logic & Applications (fulfill requirement, minimum 3)
 
 * Introduction to Software Verification (02360342)
 * Automatic Verification of HW and SW Systems (02360345)
 * Knowledge and games in distributed systems (02360026 )
 
 
-# Remaining Credits — List A Priority Picks
+## Remaining Credits — List A Priority Picks
 
 * Advanced Topics in Computer Architecture (02360509)
 * Deep Learning on Computation Accelerators (02360781)
