@@ -18,8 +18,7 @@ Must take either Networks or Concurrent+Distributed
 * Internet Networking (02360341)
 * Distributed Systems (02360351)
 * Concurrent and Distributed Programming for ML (02360370)
-* Distributed Algorithms A (02360357)
-* Distributed Algorithms B (02360755)
+* Distributed Algorithms (02360755)
 * Network Security (02360350)
 
 
